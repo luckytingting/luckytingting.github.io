@@ -22,3 +22,6 @@ I have an interdisciplinary education background in psychology, neuroscience, da
   <br>
    <br>
 Please see more in Research Projects and Publications.
+  <br>
+    <br>
+    <br>
