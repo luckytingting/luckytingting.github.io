@@ -11,7 +11,7 @@ profile:
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # true to includes social icons at the bottom of the page
 ---
 
 My research aims to understand the social motivation and faciliators behind decision-making and mental health.
