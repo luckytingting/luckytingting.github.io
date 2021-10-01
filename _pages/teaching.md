@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: M Teaching!!
+description: Teaching!!
 nav: true
 ---
 
