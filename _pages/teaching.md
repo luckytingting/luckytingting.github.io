@@ -3,7 +3,8 @@ layout: page
 permalink: /teaching/
 title: Teaching
 description: Teaching Philosophy: Open, Positive, Interactive.
-nav: true
+display_categories: [work, fun]
+horizontal: false
 ---
 
 Check out the three classes below
