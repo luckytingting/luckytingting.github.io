@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Teaching Philosophy: open positive interactive.
+description: M Teaching!!
 nav: true
 ---
 
