@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Using psychology and data to improve subjective well-being.
 nav: true
 display_categories: [work, fun]
 horizontal: false
