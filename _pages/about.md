@@ -10,7 +10,7 @@ profile:
   address: 
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # true to includes social icons at the bottom of the page
 ---
 
@@ -18,7 +18,7 @@ My research aims to understand the social motivation and faciliators behind deci
 
   <br>
 I have an interdisciplinary education background in psychology, neuroscience, data science, and computer science, this makes my research optimally incorporates methodologies across disciplinaries, including data science (e.g., machine learning, smartphone-based digital phenotyping), psychology (e.g., survey and experiments), and neuroimaging (e.g., fMRI). 
-
+<br>
 Email: tingtingliu.work@gmail.com
        
   <br>
