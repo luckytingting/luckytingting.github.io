@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-description: <a href="#">**Ph.D., Joint Postdoc Researcher at NIDA/NIH & WWBP/UPenn**
+description: <a href="#"> <b> Ph.D., Joint Postdoc Researcher at NIDA/NIH & WWBP/UPenn </b>
 
 profile:
   align: right
@@ -19,6 +19,8 @@ My research aims to understand the social motivation and faciliators behind deci
   <br>
 I have an interdisciplinary education background in psychology, neuroscience, data science, and computer science, this makes my research optimally incorporates methodologies across disciplinaries, including data science (e.g., machine learning, smartphone-based digital phenotyping), psychology (e.g., survey and experiments), and neuroimaging (e.g., fMRI). 
 
+Email: tingtingliu.work@gmail.com
+       
   <br>
    <br>
 Please see more in Research Projects and Publications.
