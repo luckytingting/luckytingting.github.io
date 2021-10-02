@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-description: <a href="#"> <b> Ph.D., Joint Postdoc Researcher at NIDA/NIH & WWBP/UPenn </b>
+description: <a href="#"> <b> Ph.D., Joint Postdoc Researcher at NIDA/NIH & WWBP/UPenn </b> </a>
 
 profile:
   align: right
