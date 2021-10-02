@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-description: <b> Ph.D., Joint Postdoc Researcher at <a href="https://irp.drugabuse.gov/staff-members/tingting-liu-ph-d/">NIDA/NIH</a> & <a href="http://www.wwbp.org/">WWBP@UPenn</a> </b>.
+description: <b> Ph.D. in Psychology | Joint Postdoc Researcher at <a href="https://irp.drugabuse.gov/staff-members/tingting-liu-ph-d/" target = "_blank">NIDA/NIH</a> & <a href="http://www.wwbp.org/" target = "_blank">WWBP@UPenn</a> </b>.
 
 profile:
   align: right
