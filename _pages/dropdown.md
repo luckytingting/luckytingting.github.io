@@ -1,12 +1,12 @@
 ---
 layout: page
-title: submenus
+title: About Me
 nav: true
 dropdown: true
 children: 
-    - title: publications
+    - title: CV
       permalink: /publications/
     - title: divider
-    - title: projects
+    - title: Fun Facts
       permalink: /projects/
 ---
