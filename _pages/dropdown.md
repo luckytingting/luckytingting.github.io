@@ -12,4 +12,7 @@ children:
     - title: divider
     - title: Fun Facts
       permalink: /projects/
+    - title: divider
+    - title: Contact Me
+      permalink: /projects/
 ---
