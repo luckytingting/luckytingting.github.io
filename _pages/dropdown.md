@@ -7,6 +7,9 @@ children:
     - title: CV
       permalink: /publications/
     - title: divider
+    - title: News
+      permalink: /publications/
+    - title: divider
     - title: Fun Facts
       permalink: /projects/
 ---
