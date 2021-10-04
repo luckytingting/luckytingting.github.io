@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /other/
-title: Other
+permalink: /teaching/
+title: Teaching
 description: Teaching Philosophy--Open, Positive, Interactive.
 nav: true
 ---
