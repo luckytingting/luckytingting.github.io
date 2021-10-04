@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: More
 nav: true
 dropdown: true
 children: 
