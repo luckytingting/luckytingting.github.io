@@ -64,7 +64,7 @@
             
              <li class="nav-item {% if page.title == "Teaching" %}active{% endif %}">
               <a class="nav-link" href="{{ '/teaching/' | relative_url }}">
-                Projects
+                Teaching
                 {% if page.title == "Teaching" %}
                 <span class="sr-only">(current)</span>
                 {% endif %}
@@ -93,16 +93,16 @@
               {% endfor %}
               </div>
           </li>
-         <!-- {% else %}
-          <li class="nav-item {% if page.title == p.title %}active{% endif %}">
-              <a class="nav-link" href="{{ p.url | relative_url }}">
-                {{ p.title }}
-                {% if page.title == p.title %}
-                <span class="sr-only">(current)</span>
-                {% endif %}
-              </a>
-          </li> -->
-          {% endif %}
+         <!-- {% else %} -->
+         <!--  <li class="nav-item {% if page.title == p.title %}active{% endif %}"> -->
+         <!--      <a class="nav-link" href="{{ p.url | relative_url }}"> -->
+         <!--        {{ p.title }} -->
+         <!--        {% if page.title == p.title %} -->
+        <!--         <span class="sr-only">(current)</span> -->
+         <!--        {% endif %} -->
+         <!--      </a> -->
+         <!--  </li> -->
+         <!--  {% endif %} -->
           {% endif %}
           {% endfor %}
           {% if site.enable_darkmode %}
