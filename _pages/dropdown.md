@@ -8,7 +8,7 @@ children:
       permalink: /publications/
     - title: divider
     - title: News
-      permalink: /publications/
+      permalink: /news/
     - title: divider
     - title: Fun Facts
       permalink: /projects/
