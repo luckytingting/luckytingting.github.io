@@ -11,7 +11,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A Ph.D., a psychologist.
 footer_text: 
 icon: TL # the emoji used as the favicon
-url:  
+url:  https://luckytingting.github.io/
 repository: "luckytingting/luckytingting.github.io"
 # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
