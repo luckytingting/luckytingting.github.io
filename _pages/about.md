@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-description: <b> Ph.D. in Psychology | Research Fellow at <a href="https://irp.drugabuse.gov/staff-members/tingting-liu-ph-d/" target = "_blank">NIDA/NIH</a> </b>.
+description:  <b>  A behavioral scientist. Ph.D. in Psychology | Research Fellow at <a href="https://irp.drugabuse.gov/staff-members/tingting-liu-ph-d/" target = "_blank">NIDA/NIH</a> </b>.
 
 profile:
   align: right
